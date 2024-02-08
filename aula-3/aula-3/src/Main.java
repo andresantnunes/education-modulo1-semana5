@@ -32,5 +32,8 @@ public class Main {
         //Métodos Static podem ser usados para classes de utilidades,
         //são utilizadas me vários lugares do código e não tem um contexto específico
         System.out.println(Utilitarios.removePontoFinal("Textinho. cheio. de pontos.!"));
+
+
+        ExercicioConfiguracao.exibeConfig();
     }
 }
